@@ -20,7 +20,7 @@ relogio.style.textAlign = 'center';
 document.body.appendChild(relogio);
 
 let mensagem = document.createElement('div');
-mensagem.innerText = 'Você está aprendendo JavaScript, parabéns! 🎉';
+mensagem.innerText = 'Não sou preguiçosa, estou no modo de economia de energia';
 mensagem.style.color = '#333';
 mensagem.style.marginTop = '30px';
 mensagem.style.textAlign = 'center';
